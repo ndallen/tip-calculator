@@ -1,0 +1,17 @@
+body {
+  font-size: 1.2em;
+  width: 100%;
+  margin: 0 auto;
+  letter-spacing: 0.5px;
+  /* background-image: url('background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+h1 {
+  text-align: center;
+}
+#container {
+  padding: 1.5em;
+  background: linear-gradient(-45deg, rgb(245,156,127), rgb(241,89,38));
+  border-radius:10px;
+}
